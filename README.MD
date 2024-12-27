@@ -1,4 +1,5 @@
 # Compose Multiplatform Application with IOS native Navigation for IOS App in common code and Voyager for other platforms
+- use voyant to get started without any boilerplater [Voyant](https://github.com/kashif-e/voyant) for using ios navigation with CMP
 - Looking to build with KMP and CMP? Let's connect [LinkedIn](https://www.linkedin.com/in/kashif-mehmood-km/)
 - Featured in [Kotlin Weekly](https://mailchi.mp/kotlinweekly/kotlin-weekly-422)
 
